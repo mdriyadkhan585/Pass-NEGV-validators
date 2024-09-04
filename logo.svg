@@ -1,0 +1,17 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="90" fill="#282c34" stroke="#61dafb" stroke-width="10"/>
+  
+  <!-- Lock Icon -->
+  <g fill="#61dafb">
+    <path d="M130 80h-10V60c0-11-9-20-20-20s-20 9-20 20v20h-10c-11 0-20 9-20 20v60c0 11 9 20 20 20h60c11 0 20-9 20-20v-60c0-11-9-20-20-20zm-30-20c8 0 15 7 15 15v20H85V75c0-8 7-15 15-15zm30 100H70v-60h60v60z"/>
+  </g>
+  
+  <!-- Validation Checkmark -->
+  <g fill="none" stroke="#61dafb" stroke-width="10">
+    <path d="M75 110l10 10 30-30"/>
+  </g>
+  
+  <!-- Text -->
+  <text x="100" y="180" font-family="Arial" font-size="20" text-anchor="middle" fill="#61dafb">PassGen</text>
+</svg>
