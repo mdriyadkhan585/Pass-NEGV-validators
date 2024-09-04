@@ -76,7 +76,7 @@ Welcome to the **Password & Number Generator with Validators**! This desktop app
 
 ## Short Example 📸
 
-![GIF](example.gif)
+![GIF](example.svg.gif)
 
 ## Customization 🎨
 
